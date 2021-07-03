@@ -98,7 +98,7 @@ Here are some ideas to get you started:
   <img align="center" width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=12169145641&cover_image=true&theme=default" alt="odguzmanv's spotify"/>
 </a>
 </p>
-
+[![Spotify](https://12169145641.vercel.app/api/spotify)](https://open.spotify.com/user/12169145641)
 <p align="center">
 <img src="https://img.shields.io/badge/build-passing-success" alt="odguzmanv-build" />
 <img src="https://komarev.com/ghpvc/?username=odguzmanv&label=profile%20views&color=blue" alt="odguzmanv-views" />
