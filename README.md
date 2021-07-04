@@ -1,18 +1,9 @@
-### Hello there 👋
-
 <!--
 **odguzmanv/odguzmanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 [![GitHub Header odguzmanv](https://raw.githubusercontent.com/odguzmanv/odguzmanv/main/assets/github-banner.gif)](http://www.odguzmanv.com/)
 
@@ -24,9 +15,12 @@ Here are some ideas to get you started:
   <a href="https://www.hackerrank.com/odguzmanv"><img src="https://img.shields.io/badge/hacker%20rank-2EC866.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h1 align="center">Hey
+<h1 align="center">Hello there
 <img src="https://raw.githubusercontent.com/odguzmanv/odguzmanv/main/assets/hi.gif" width="25">, nice to see you 👨‍💻</h1>
-<p>Backend developer, specialized in web technologies like JavaScript, React, React Native, Redux, Node, Php, Laravel. Focused in create quality and high-performance software. Self-taught, I love learning about tech and I share posts about my favorite topics on my blog.</p>
+<p>Data Scientist, specialized in data technologies like Python (Pandas, NumPy, Scykit learn), SQL, Power BI, Tableau. Focused in create quality and high-performance software. Self-taught, I love learning about tech and I share posts about my favorite topics on my new blog.</p>
+
+- 🌱 I’m currently learning about AI
+- 📫 How to reach me: odguzmanv@protonmail.com - odguzmanv@unal.edu.co
 
 ---
 
@@ -47,6 +41,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
 
+![Python](https://img.shields.io/badge/_-Python-292e33?style=flat-square&logo=Python&logoColor=fff)
+<!--
 ![HTML5](https://img.shields.io/badge/_-HTML5-292e33?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/_-CSS3-292e33?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white)
@@ -72,8 +68,9 @@ Here are some ideas to get you started:
 ![yarn](https://img.shields.io/badge/_-yarn-292e33?style=flat-square&logo=yarn&logoColor=fff)
 ![Composer](https://img.shields.io/badge/_-Composer-292e33?style=flat-square&logo=Composer&logoColor=fff)
 
-![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=MySQL&logoColor=fff)
 ![MariaDB](https://img.shields.io/badge/_-MariaDB-292e33?style=flat-square&logo=MariaDB&logoColor=fff)
+-->
+![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=MySQL&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff)
 
 ---
