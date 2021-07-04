@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Header odguzmanv](https://raw.githubusercontent.com/odguzmanv/odguzmanv/main/assets/github-cover.png)](http://www.odguzmanv.com/)
+[![GitHub Header odguzmanv](https://raw.githubusercontent.com/odguzmanv/odguzmanv/main/assets/github-banner.gif)](http://www.odguzmanv.com/)
 
 <p align='center'>
   <a href="https://odguzmanv-blog.herokuapp.com/"><img src="https://img.shields.io/badge/blog-9146FF.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
